@@ -1,0 +1,8 @@
+D:\Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+D:\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+D:\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
